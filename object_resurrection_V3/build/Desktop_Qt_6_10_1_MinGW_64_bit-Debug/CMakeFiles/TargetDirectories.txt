@@ -1,0 +1,9 @@
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/object_resurrection_V3.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/object_resurrection_V3_autogen_timestamp_deps.dir
+E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/object_resurrection_V3_autogen.dir

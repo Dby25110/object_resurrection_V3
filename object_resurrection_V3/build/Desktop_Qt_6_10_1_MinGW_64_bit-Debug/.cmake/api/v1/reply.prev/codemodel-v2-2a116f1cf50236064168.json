@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e116e63511a3339cd435.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "object_resurrection_V3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "object_resurrection_V3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-object_resurrection_V3-Debug-52a488e78d865c9169a1.json",
+					"name" : "object_resurrection_V3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "object_resurrection_V3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-object_resurrection_V3_autogen-Debug-fac207df53d1e8adc4c4.json",
+					"name" : "object_resurrection_V3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "object_resurrection_V3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-object_resurrection_V3_autogen_timestamp_deps-Debug-36896b82faa9f52a8c58.json",
+					"name" : "object_resurrection_V3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "E:/object_resurrection_V3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

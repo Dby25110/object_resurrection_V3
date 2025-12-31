@@ -1,0 +1,8 @@
+# ninja log v6
+3	926	7888700194153115	object_resurrection_V3_autogen/timestamp	ff0e5e29ecbc3160
+3	926	7888700194153115	object_resurrection_V3_autogen/mocs_compilation.cpp	ff0e5e29ecbc3160
+3	926	7888700194153115	E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/object_resurrection_V3_autogen/timestamp	ff0e5e29ecbc3160
+3	926	7888700194153115	E:/object_resurrection_V3/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/object_resurrection_V3_autogen/mocs_compilation.cpp	ff0e5e29ecbc3160
+930	1004	7888700194882337	CMakeFiles/object_resurrection_V3.dir/object_resurrection_V3_autogen/mocs_compilation.cpp.obj	824ad3fabb3c0c3c
+934	4752	7888700194882337	CMakeFiles/object_resurrection_V3.dir/main.cpp.obj	3d6a9e2b2cdd6c5e
+4752	5490	7888700233125670	object_resurrection_V3.exe	30a20b631c119cc
